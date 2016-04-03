@@ -1,4 +1,5 @@
 # Reproducible Research: Peer Assessment 1
+Chris Aoyama  
 
 
 ##Loading and preprocessing the data
