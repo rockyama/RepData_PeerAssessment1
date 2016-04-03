@@ -1,7 +1,8 @@
 ---
-title: "PA1_template.Rmd"
-author: "Chris Aoyama"
-output: html_document
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
 ---
 
 
